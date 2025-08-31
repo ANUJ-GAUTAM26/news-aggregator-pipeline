@@ -1,0 +1,18 @@
+# --- Secrets ---
+# Prevents your API key from being uploaded.
+config.ini
+
+# --- Virtual Environment ---
+.venv/
+venv/
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
+
+# --- Generated Data ---
+*.csv
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
